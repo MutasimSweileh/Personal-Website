@@ -12,7 +12,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "web": "npm run build && npm run serve",
+    "web": "npm run serve",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
