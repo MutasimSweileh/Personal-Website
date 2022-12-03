@@ -1,1 +1,1 @@
-web: yarn start --port ${PORT-:6000}
+web: yarn start --port $PORT
