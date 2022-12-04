@@ -1,1 +1,1 @@
-web: yarn serve -p $PORT
+web: npm run serve -p $PORT
