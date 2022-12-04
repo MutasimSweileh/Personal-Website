@@ -10,7 +10,6 @@
   "browserslist": "> 0.25%, not dead",
   "scripts": {
     "build": "gatsby build",
-    "heroku-postbuild": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run serve",
@@ -74,6 +73,6 @@
     "prettier": "^2.2.1"
   },
   "engines": {
-    "node": "14.x"
+    "node": "14.16.x"
   }
 }
