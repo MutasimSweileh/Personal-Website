@@ -3,7 +3,7 @@ date: '2015-12-21'
 title: 'Web Developer'
 company: 'MullenLowe'
 location: 'Remote, MA'
-range: 'July - December 2015'
+range: 'July 2013 - December 2015'
 url: 'https://us.mullenlowe.com/'
 ---
 
