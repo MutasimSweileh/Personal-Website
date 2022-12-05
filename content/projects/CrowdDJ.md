@@ -7,7 +7,7 @@ tech:
   - React
   - Firebase
   - Spotify API
-company: HackBeanpot 2017
+company: UpWork
 showInProjects: true
 ---
 

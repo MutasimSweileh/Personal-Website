@@ -13,6 +13,6 @@ tech:
   - Formik
   - Yup
   - Vercel
-company: 'Upstatement'
+company: 'ERAsoft'
 showInProjects: false
 ---

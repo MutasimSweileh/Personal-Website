@@ -1,12 +1,12 @@
 ---
 date: '2019-11-25'
-title: 'Upstatement.com'
+title: 'ERAsoft.com'
 github: ''
-external: 'https://www.upstatement.com/'
+external: 'https://www.ERAsoft.com/'
 tech:
   - Nuxt
   - Vue
   - Prismic
-company: 'Upstatement'
+company: 'ERAsoft'
 showInProjects: false
 ---

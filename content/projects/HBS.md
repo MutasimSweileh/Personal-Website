@@ -7,6 +7,6 @@ tech:
   - Storybook
   - React
   - TypeScript
-company: 'Upstatement'
+company: 'ERAsoft'
 showInProjects: false
 ---

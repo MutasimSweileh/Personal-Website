@@ -8,7 +8,7 @@ tech:
   - MySQL
   - Flask
   - JS
-company: 'Northeastern'
+company: 'ERAsoft'
 showInProjects: false
 ---
 

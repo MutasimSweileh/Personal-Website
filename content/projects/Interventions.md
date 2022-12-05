@@ -7,7 +7,7 @@ tech:
   - Jekyll
   - SCSS
   - JS
-company: 'Scout'
+company: 'UpWork'
 showInProjects: false
 ---
 

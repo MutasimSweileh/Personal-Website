@@ -11,6 +11,6 @@ tech:
   - JS
   - Mailchimp
   - AMP
-company: 'Upstatement'
+company: 'ERAsoft'
 showInProjects: false
 ---
