@@ -11,5 +11,5 @@ tech:
   - Algolia
   - JS
 company: 'ERAsoft'
-showInProjects: true
+showInProjects: false
 ---

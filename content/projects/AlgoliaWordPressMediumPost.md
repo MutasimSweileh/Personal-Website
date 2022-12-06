@@ -1,5 +1,5 @@
 ---
-date: '2020-03-27'
+date: '2022-11-27'
 title: 'Hosting FullStack Application AWS CircleCI'
 github: 'https://github.com/MutasimSweileh/Hosting-FullStack-Application-AWS-CircleCI'
 external: ''
